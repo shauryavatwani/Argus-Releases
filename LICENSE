@@ -29,9 +29,20 @@ Argus is proprietary software. It is licensed, not sold.
 
 4. Your data
    What you create or store with Argus is yours. Argus keeps it on your Mac,
-   in ~/Library/Application Support/Argus, and sends it only to the AI
-   provider you choose. This notice grants the copyright owner no rights in
-   it.
+   in ~/Library/Application Support/Argus, and sends only what a feature you
+   use needs to the service behind that feature:
+     - the AI provider you choose in Settings → Brain: your questions, and what
+       Argus read to answer them;
+     - web search: your search, to the SearXNG instance you run and the search
+       engines it queries, or to Brave Search if you add a Brave key;
+     - ElevenLabs, only if you add an ElevenLabs key: your recordings to
+       transcribe and the text Argus speaks;
+     - a call you place: its audio goes through a Cloudflare tunnel to the
+       person you call;
+     - GitHub: Argus checks the releases page for updates and downloads them
+       from it.
+   None of it is sent to the copyright owner, and this notice grants the
+   copyright owner no rights in it.
 
 5. Names
    "Argus" and its icon identify this software. This notice grants no right

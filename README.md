@@ -39,8 +39,11 @@ Quit Argus, drag it from Applications to the Bin, and delete
 
 Copyright © 2026 Shaurya Vatwani. All rights reserved.
 
-Argus is proprietary software. You may install and use the copies published
-here. You may not copy, modify, redistribute, sell, reverse engineer,
-decompile or disassemble it, in whole or in part. Third-party components
-included in the app, and their licences, are listed in Settings → About and in
-the app bundle under `Contents/Resources/Licenses`.
+Argus is proprietary software, licensed, not sold. You may install and use
+the copies published here. You may not copy, modify, distribute, sell,
+reverse engineer, decompile or disassemble it, or create derivative works
+from it, except as the copyright owner expressly permits in writing. The full
+terms are in [LICENSE](LICENSE).
+
+Third-party components included with Argus are subject to their respective
+licences, listed in Settings → About and in `Contents/Resources/Licenses`.

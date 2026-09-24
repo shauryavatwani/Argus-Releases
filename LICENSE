@@ -1,18 +1,57 @@
 Argus
-Copyright (c) 2026 Shaurya Vatwani. All rights reserved.
+Copyright © 2026 Shaurya Vatwani. All rights reserved.
 
-This software and its source code are proprietary. No licence is granted to
-copy, modify, merge, publish, distribute, sublicense, sell, reverse engineer,
-decompile or disassemble it, in whole or in part, except as expressly
-permitted in writing by the copyright holder.
+Argus is proprietary software. It is licensed, not sold.
 
-Installed copies of Argus may be used by the person who installed them, as
-distributed through the official releases page. Using Argus does not transfer
-any rights in it.
+1. Permitted use
+   You may download Argus from its official releases page
+   (https://github.com/shauryavatwani/Argus-Releases), install it on Macs you
+   own or control, and use it for your own personal or internal purposes.
+   Updates published on that page are covered by this same notice.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. What is not permitted
+   No permission is granted to copy, modify, distribute, publish, sublicense,
+   rent, lease, lend, sell, reverse engineer, decompile, disassemble, or
+   create derivative works from Argus or any portion of it, including its
+   compiled code, prompts, interface and other embedded resources; to remove
+   or alter this notice or any other proprietary notice; to circumvent any
+   technical measure in Argus, including its update and version checks; or
+   to use Argus or any portion of it to train, fine-tune or evaluate a
+   machine-learning model — except as expressly permitted in writing by the
+   copyright owner, or to the extent applicable law allows despite this
+   limitation.
+
+3. Third-party components
+   Third-party components included with Argus are subject to their
+   respective licences, listed in Settings → About and in
+   Contents/Resources/Licenses. Nothing in this notice limits your rights
+   under those licences.
+
+4. Your data
+   What you create or store with Argus is yours. Argus keeps it on your Mac,
+   in ~/Library/Application Support/Argus, and sends it only to the AI
+   provider you choose. This notice grants the copyright owner no rights in
+   it.
+
+5. Names
+   "Argus" and its icon identify this software. This notice grants no right
+   to use them for anything else.
+
+6. No warranty
+   ARGUS IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. Answers produced by
+   AI models can be wrong; check anything that matters.
+
+7. Limitation of liability
+   TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT OWNER BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+   CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+   ARGUS OR ITS USE.
+
+8. Termination
+   Your permission to use Argus ends automatically if you break this notice.
+   You must then stop using Argus and delete every copy you have.
+
+For permission to do anything this notice does not allow, contact the
+copyright owner through https://github.com/shauryavatwani.

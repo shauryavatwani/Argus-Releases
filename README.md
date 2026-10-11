@@ -1,6 +1,6 @@
 # Argus
 
-<img src="logo.png" alt="Argus" width="160">
+<img src="logo.svg" alt="Argus" width="160">
 
 A voice-first assistant for your Mac. It reads your own files, mail and
 calendar, answers from them, and can place a call for you. Everything it
